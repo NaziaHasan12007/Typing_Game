@@ -1,4 +1,5 @@
 # Typing_Game
+  Authur: Nazia Hasan
 This project is a terminal-based typing test built using C and Ncurses library.
 
 It offers real-time feedback, multiple difficulty levels, live statistics, and an engaging 60-second typing challenge!
